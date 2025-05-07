@@ -87,9 +87,5 @@ I’m always open to collaborating and sharing what I’ve learned in the Androi
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyenphong888&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
   <em>📍 Open-source is not just a contribution — it's a way to grow, learn, and inspire others.</em>
 </p>
