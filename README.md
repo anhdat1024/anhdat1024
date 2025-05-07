@@ -54,7 +54,7 @@ Hello! I'm a passionate Android ROM Developer who enjoys customizing and optimiz
 | Device Name       | Codename | Status           |
 |-------------------|----------|------------------|
 | Galaxy A52s 5G    | a52sxq   | Main Development |
-| Galaxy A52 4G     | sunfish  | Testing ROMs     |
+| Galaxy A52 4G     | a52q     | Testing ROMs     |
 | Redmi Note 10 Pro | sweet    | Past Builds      |
 
 ---
