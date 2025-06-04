@@ -29,7 +29,7 @@ Hello! I'm a passionate Android ROM Developer who enjoys customizing and optimiz
 
 ## 🚀 Notable Projects
 
-### 🌀 crDroid – Android 15 (Unofficial)
+### 🌀 crDroid – Android 15 (Official)
 - 📱 Device: Galaxy A52s 5G (a52sxq)
 - 🌟 Features: Extensive customization via crDroid Settings, OTA support, prebuilt crDroid Music and crDroid Home launcher
 - 🛠️ Source: [crDroid GitHub](https://github.com/crdroidandroid)
